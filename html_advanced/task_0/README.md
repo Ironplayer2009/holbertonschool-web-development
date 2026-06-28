@@ -1,9 +1,11 @@
-## HTML Advanced
+HTML Advanced – Webpage Structure
 
-This project is about learning to use HTML by creating a simple web page from an existing Figma designer file.
+This project focuses on building the basic structure of a website using semantic HTML based on a Figma design. CSS and styling are not used here — the main goal is to learn how to properly organize elements, create a clear hierarchy, and build a clean, logical, and accessible HTML document that follows modern web development standards.
 
-It will focus on **HTML** structure only (no CSS styling), without using any external library.
+### Project Preview
 
-The goal of the project is to replicate a *School Page* with the following design:
-
-<br><img src="../assets/school_page.png" alt="School Page"/><br>
+### Learning Objectives
+![Screenshot](sigma.png)
+* Understand the difference between page structure and styling.
+* Learn how to convert a wireframe into clean HTML code.
+* Use semantic tags to properly define and separate sections of a webpage.
